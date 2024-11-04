@@ -1,18 +1,18 @@
-## Getting Started
+# Projeto Agência Bancária - Desafio Sintaxe (Bootcamp Claro - Java com Spirng Boot)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto simula um sistema de contas bancárias, permitindo que os usuários criem uma conta, informem seus dados e visualizem as informações de sua conta. 
 
-## Folder Structure
+## Estrutura do Projeto
 
-The workspace contains two folders by default, where:
+O projeto é composto por duas classes principais:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **Conta**: Representa uma conta bancária, com atributos para número da conta, agência, cliente e saldo. Contém métodos para acessar e modificar esses atributos.
+- **ContaTerminal**: Responsável pela interação com o usuário. Permite que o usuário insira os dados da conta e exibe as informações formatadas.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Tecnologias Utilizadas
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **Java**
 
-## Dependency Management
+## Contribuições
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
